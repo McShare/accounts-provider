@@ -11,7 +11,7 @@
   "author": "Dynastic <hello@dynastic.co>",
   "license": "MIT",
   "dependencies": {
-    "@dynastic-accounts/core": "^2.1.0",
+    "@dynastic-accounts/core": "github:McShare/accounts-core",
     "passport-oauth2": "^1.7.0"
   },
   "devDependencies": {
